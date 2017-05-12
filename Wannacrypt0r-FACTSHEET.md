@@ -4,7 +4,7 @@
 * **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate. It can also spread via email, the attatchment is called "nm.pdf"
 * **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus. Seems to reset if the virus crashes.
 * **Backdooring**: The worm loops through every RDP session on a system to run the ransomware as that user. It also installs the DOUBLEPULSAR backdoor. (source: malwarebytes)
-* **Infections**: NHS (uk), Telefonica (spain), FedEx (us), Russia interior ministry & Megafon (russia), Shaheen Airlines (india, claimed on twitter)
+* **Infections**: NHS (uk), Telefonica (spain), FedEx (us), Russia interior ministry & Megafon (russia), Shaheen Airlines (india, claimed on twitter), Train station ([germany](https://twitter.com/Nick_Lange_/status/863132237822394369))
 * **Kill switch**: If the website `www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com` is up the virus exits instead of infecting the host. (source: malwarebytes)
 
 SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
