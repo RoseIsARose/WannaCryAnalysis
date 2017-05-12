@@ -80,6 +80,14 @@ The filetypes it looks for to encrypt are
 
 credit herulume, thanks for extracting this list from the binary.
 
+# Some other interesting strings 
+
+BAYEGANSRV\administrator
+Smile465666SA
+wanna18@hotmail.com
+
+credit: nulldot https://pastebin.com/0LrH05y2
+
 # Vulnerability disclosure
 
 The specific vulnerability that it uses to propagate is ETERNALBLUE.
