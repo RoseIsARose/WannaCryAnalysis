@@ -2,9 +2,9 @@
 
 * **Virus Name**: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY
 * **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate.
+* **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus.
 
 SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
-
 
 # Malware samples
 
@@ -59,3 +59,12 @@ Binary blob in PE crypted with pass 'WNcry@2ol7'
 All language ransom messages available here: https://transfer.sh/y6qco/WANNACRYDECRYPTOR-Ransomware-Messages-all-langs.zip
 
 m_bulgarian, m_chinese (simplified), m_chinese (traditional), m_croatian, m_czech, m_danish, m_dutch, m_english, m_filipino, m_finnish, m_french, m_german, m_greek, m_indonesian, m_italian, m_japanese, m_korean, m_latvian, m_norwegian, m_polish, m_portuguese, m_romanian, m_russian, m_slovak, m_spanish, m_swedish, m_turkish, m_vietnamese
+
+# Vulnerability disclosure
+
+The specific vulnerability that it uses to propagate is ETERNALBLUE.
+
+This was developed by NSA subcontracter "equation group" and leaked to the public by "the shadow brokers". Microsoft fixed this vulnerability March 14, 2017. They were not 0 days at the time of release.
+
+* https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
+* https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
