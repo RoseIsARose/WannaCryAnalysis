@@ -34,11 +34,13 @@ Binary blob in PE crypted with pass 'WNcry@2ol7'
 
 # Cryptography details
 
-* encrypted via AES
-* AES key generated with a CSPRNG
-* AES key is encrypted by RSA
+* encrypted via AES-128
+* AES key generated with a CSPRNG, CryptGenRandom
+* AES key is encrypted by RSA-2048
 
 # Bitcoin ransom addresses
+
+3 addresses hard coded into the malware.
 
 * https://blockchain.info/address/13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94
 * https://blockchain.info/address/12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw
