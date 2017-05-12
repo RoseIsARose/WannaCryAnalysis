@@ -1,7 +1,7 @@
 # WannaCry|WannaDecrypt0r NSA-Cybereweapon-Powered Ransomware Worm 
 
 * **Virus Name**: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY
-* **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate.
+* **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate. It can also spread via email, the attatchment is called "nm.pdf"
 * **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus. Seems to reset if the virus crashes.
 * **Backdooring**: The worm loops through every RDP session on a system to run the ransomware as that user. It also installs the DOUBLEPULSAR backdoor. (source: malwarebytes)
 * **Infections**: NHS (uk), Telefonica (spain), FedEx (us), Russia interior ministry & Megafon (russia)
