@@ -2,7 +2,7 @@
 
 * **Virus Name**: WannaCrypt, WannaCry, WanaCrypt0r, WCrypt, WCRY
 * **Vector**: All Windows versions before Windows 10 are vulnerable if not patched for MS-17-010. It uses EternalBlue MS17-010 to propagate.
-* **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus.
+* **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus. Seems to reset if the virus crashes.
 * **Backdooring**: The worm also installs the DOUBLEPULSAR backdoor.
 * **Infections**: NHS (uk), Telefonica (spain), FedEx (us), Russia interior ministry (russia)
 
