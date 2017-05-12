@@ -35,6 +35,7 @@ Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 * C&C hosts: https://twitter.com/hackerfantastic/status/863115568181850113
 * Crypted files *will* be deleted after countdown: https://twitter.com/laurilove/status/863116900829724672
 * Claim of attrib [take with salt]: https://twitter.com/0xSpamTech/status/863058605473509378
+* Track the bitcoins: https://twitter.com/bl4sty/status/863143484919828481
 
 # Cryptography details
 
