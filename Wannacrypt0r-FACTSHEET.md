@@ -5,7 +5,7 @@
 * **Ransom**: between $300 to $600. There is code to 'rm' (delete) files in the virus. Seems to reset if the virus crashes.
 * **Backdooring**: The worm loops through every RDP session on a system to run the ransomware as that user. It also installs the DOUBLEPULSAR backdoor. (source: malwarebytes)
 * **Infections**: NHS (uk), Telefonica (spain), FedEx (us), University of Waterloo ([us](https://twitter.com/amtinits)), Russia interior ministry & Megafon (russia), Сбера bank ([russia](https://twitter.com/discojournalist/status/863162464304865280)), Shaheen Airlines (india, claimed on twitter), Train station ([germany](https://twitter.com/Nick_Lange_/status/863132237822394369)), Neustadt station ([germany](https://twitter.com/MedecineLibre/status/863139139138531328))
-* **Kill switch**: If the website `www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com` is up the virus exits instead of infecting the host. (source: malwarebytes)
+* **Kill switch**: If the website `www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com` is up the virus exits instead of infecting the host. (source: malwarebytes). This domain has been sinkholed, stopping the spread of the worm.
 
 SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/
