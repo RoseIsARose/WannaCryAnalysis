@@ -64,7 +64,7 @@ m_bulgarian, m_chinese (simplified), m_chinese (traditional), m_croatian, m_czec
 
 The specific vulnerability that it uses to propagate is ETERNALBLUE.
 
-This was developed by NSA subcontracter "equation group" and leaked to the public by "the shadow brokers". Microsoft fixed this vulnerability March 14, 2017. They were not 0 days at the time of release.
+This was developed by "equation group" an exploit developer group associated with the NSA and leaked to the public by "the shadow brokers". Microsoft fixed this vulnerability March 14, 2017. They were not 0 days at the time of release.
 
 * https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
 * https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
