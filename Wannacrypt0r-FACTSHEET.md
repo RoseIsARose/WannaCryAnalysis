@@ -14,10 +14,12 @@ SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/
 * hxxps://transfer.sh/PnDIl/CYBERed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa.EXE
 * hxxps://transfer.sh/ZhnxR/CYBER1be0b96d502c268cb40da97a16952d89674a9329cb60bac81a96e01cf7356830.EXE (main dll)
 
-Binary blob in PE crypted with pass 'WNcry@2ol7'
+Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 
 # Informative Tweets
 
+* Sample released by ens: https://twitter.com/the_ens/status/863055007842750465
+* Onion C&Cs extracted: https://twitter.com/the_ens/status/863069021398339584
 * EternalBlue confirmed: https://twitter.com/kafeine/status/863049739583016960
 * Shell commands: https://twitter.com/laurilove/status/863065599919915010
 * Maps/stats: https://twitter.com/laurilove/status/863066699888824322
