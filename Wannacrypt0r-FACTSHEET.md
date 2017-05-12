@@ -38,9 +38,9 @@ Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 
 # Cryptography details
 
-* encrypted via AES-128
+* encrypted via AES-128-CBC (custom implementation in the binary)
 * AES key generated with a CSPRNG, CryptGenRandom
-* AES key is encrypted by RSA-2048
+* AES key is encrypted by RSA-2048 (windows RSA implementation)
 
 https://haxx.in/key1.bin https://haxx.in/key2.bin the CryptImportKey() rsa key blob dumped from the DLL by blasty.
 
