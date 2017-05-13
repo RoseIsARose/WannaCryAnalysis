@@ -71,13 +71,19 @@ Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 
 # Cryptography details
 
-* encrypted via AES-128-CBC (custom implementation in the binary)
-* AES key generated with a CSPRNG, CryptGenRandom
-* AES key is encrypted by RSA-2048 (windows RSA implementation)
+* Each infection generates a new RSA-2048 keypair.
+* The public key is exported as blob and saved to 00000000.pky
+* The private key is encrypted with the ransomware public key and saved as 00000000.eky
+* Each file is encrypted using AES-128-CBC, with a unique AES key per file.
+* Each AES key is generated CryptGenRandom.
+* The AES key is encrypted using the infection specific RSA keypair.
 
 * https://haxx.in/key1.bin (the ransomware pubkey, used to encrypt the aes keys)
 * https://haxx.in/key2.bin (the dll decryption privkey)
 the CryptImportKey() rsa key blob dumped from the DLL by blasty.
+
+https://pastebin.com/aaW2Rfb6 even more in depth RE information by cyg_x1!!
+
 
 # Bitcoin ransom addresses
 
