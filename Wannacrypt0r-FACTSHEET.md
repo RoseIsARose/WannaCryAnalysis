@@ -103,6 +103,19 @@ wanna18@hotmail.com
 
 credit: nulldot https://pastebin.com/0LrH05y2
 
+# Encrypted file format
+
+```
+<64-bit SIGNATURE>        - WANACRY!
+<length of encrypted key> - 256 for 2048-bit keys, cannot exceed 4096-bits
+<encrypted key>           - 256 bytes if keys are 2048-bits
+<32-bit value>            - unknown
+<64 bit file size>        - return by GetFileSizeEx
+<encrypted data>          - with custom AES-128 in CBC mode
+```
+
+credit for reversing this file format info: cyg_x11
+
 # Vulnerability disclosure
 
 The specific vulnerability that it uses to propagate is ETERNALBLUE.
