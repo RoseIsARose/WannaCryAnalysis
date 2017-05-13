@@ -25,7 +25,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * VTB (russian bank) https://twitter.com/vassgatov/status/863175506790952962
 * Russian Railroads (RZD) https://twitter.com/vassgatov/status/863175723846176768 
 * [Portugal Telecom](http://imgur.com/a/rR3b9)
-* Сбера bank - Sberbank Russia ([russia](https://twitter.com/discojournalist/status/863162464304865280))
+* Сбербанк - Sberbank Russia ([russia](https://twitter.com/discojournalist/status/863162464304865280))
 * Shaheen Airlines (india, claimed on twitter)
 * Train station in frankfurt ([germany](https://twitter.com/Nick_Lange_/status/863132237822394369))
 * Neustadt station ([germany](https://twitter.com/MedecineLibre/status/863139139138531328))
