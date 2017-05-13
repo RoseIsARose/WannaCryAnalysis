@@ -37,7 +37,8 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * Schools/Education (France) https://twitter.com/Damien_Bancal/status/863305670568837120 
 * University of Milano-Bicocca ([italy](http://milano.repubblica.it/cronaca/2017/05/12/news/milano_virus_ransomware_universita_bicocca-165302056/?ref=drnweb.repubblica.scroll-3)) 
 * A mall in singapore https://twitter.com/nkl0x55/status/863340271391580161
- 
+* ATMs in china https://twitter.com/95cnsec/status/863382193615159296
+
 # Malware samples
 
 * hxxps://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100
