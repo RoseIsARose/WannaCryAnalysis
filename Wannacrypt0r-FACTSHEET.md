@@ -27,6 +27,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * the entire network of German Rail seems to be affected ([@farbenstau](https://twitter.com/farbenstau/status/863166384834064384))
 * [Russian Railroads (RZD)](https://twitter.com/vassgatov/status/863175723846176768), [VTB russian bank](https://twitter.com/vassgatov/status/863175506790952962)
 * [Portugal Telecom](http://imgur.com/a/rR3b9)
+* in China secondary schools and universities had been affected ([source](http://english.alarabiya.net/en/News/world/2017/05/13/Russia-s-interior-ministry-says-computers-hit-by-virus-attack-.html))
 
 
 # Malware samples
