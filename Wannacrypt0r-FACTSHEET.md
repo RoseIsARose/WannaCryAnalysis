@@ -20,7 +20,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * power firm Iberdrola and Gas Natural ([spain](http://www.bbc.co.uk/news/technology-39901382))
 * FedEx (us) (https://twitter.com/jeancreed1/status/863089728253505539)
 * University of Waterloo ([us](https://twitter.com/amtinits))
-* Russia interior ministry & Megafon (russia)
+* Russia interior ministry & Megafon (russia) https://twitter.com/dabazdyrev/status/863034199460261890/photo/1
 * VTB (russian bank) https://twitter.com/vassgatov/status/863175506790952962
 * Russian Railroads (RZD) https://twitter.com/vassgatov/status/863175723846176768 
 * [Portugal Telecom](http://imgur.com/a/rR3b9)
