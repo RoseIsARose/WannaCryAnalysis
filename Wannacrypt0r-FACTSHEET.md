@@ -78,6 +78,8 @@ Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 * Each AES key is generated CryptGenRandom.
 * The AES key is encrypted using the infection specific RSA keypair.
 
+The RSA public key used to encrypt the infection specific RSA private key is embedded inside the DLL and owned by the ransomware authors.
+
 * https://haxx.in/key1.bin (the ransomware pubkey, used to encrypt the aes keys)
 * https://haxx.in/key2.bin (the dll decryption privkey)
 the CryptImportKey() rsa key blob dumped from the DLL by blasty.
