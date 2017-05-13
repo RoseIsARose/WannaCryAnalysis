@@ -68,7 +68,6 @@ Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 * Claim of attrib [take with salt]: https://twitter.com/0xSpamTech/status/863058605473509378
 * Track the bitcoins: https://twitter.com/bl4sty/status/863143484919828481
 * keys in pem format: https://twitter.com/e55db081d05f58a/status/863109716456747008
-* new version (?): https://twitter.com/malwrhunterteam/status/851687635554848768
 
 # Cryptography details
 
