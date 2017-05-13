@@ -11,7 +11,7 @@ SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/
 
 Microsoft first patch for XP since 2014: https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/
 
-Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/
+Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wanacrypt0r/ https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
 
 # Infections
 
