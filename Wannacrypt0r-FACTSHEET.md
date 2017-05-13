@@ -16,6 +16,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 # Infections
 
 * NHS (uk) turning away patients, unable to perform x-rays. ([list of affected hospitals](http://news.sky.com/story/nhs-cyberattack-full-list-of-organisations-affected-so-far-10874493))
+* Nissan (uk) http://www.chroniclelive.co.uk/news/north-east-news/cyber-attack-nhs-latest-news-13029913
 * Telefonica (spain) (https://twitter.com/SkyNews/status/863044193727389696)
 * power firm Iberdrola and Gas Natural ([spain](http://www.bbc.co.uk/news/technology-39901382))
 * FedEx (us) (https://twitter.com/jeancreed1/status/863089728253505539)
