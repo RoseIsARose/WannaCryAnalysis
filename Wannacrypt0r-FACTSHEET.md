@@ -16,21 +16,26 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 # Infections
 
 * NHS (uk) turning away patients, unable to perform x-rays. ([list of affected hospitals](http://news.sky.com/story/nhs-cyberattack-full-list-of-organisations-affected-so-far-10874493))
-* Telefonica (spain)
+* Telefonica (spain) (https://twitter.com/SkyNews/status/863044193727389696)
 * power firm Iberdrola and Gas Natural ([spain](http://www.bbc.co.uk/news/technology-39901382))
-* FedEx (us)
+* FedEx (us) (https://twitter.com/jeancreed1/status/863089728253505539)
 * University of Waterloo ([us](https://twitter.com/amtinits))
 * Russia interior ministry & Megafon (russia)
+* VTB (russian bank) https://twitter.com/vassgatov/status/863175506790952962
+* Russian Railroads (RZD) https://twitter.com/vassgatov/status/863175723846176768 
+* [Portugal Telecom](http://imgur.com/a/rR3b9)
 * Сбера bank ([russia](https://twitter.com/discojournalist/status/863162464304865280))
 * Shaheen Airlines (india, claimed on twitter)
 * Train station in frankfurt ([germany](https://twitter.com/Nick_Lange_/status/863132237822394369))
 * Neustadt station ([germany](https://twitter.com/MedecineLibre/status/863139139138531328))
 * the entire network of German Rail seems to be affected ([@farbenstau](https://twitter.com/farbenstau/status/863166384834064384))
-* [Russian Railroads (RZD)](https://twitter.com/vassgatov/status/863175723846176768), [VTB russian bank](https://twitter.com/vassgatov/status/863175506790952962)
-* [Portugal Telecom](http://imgur.com/a/rR3b9)
 * in China secondary schools and universities had been affected ([source](http://english.alarabiya.net/en/News/world/2017/05/13/Russia-s-interior-ministry-says-computers-hit-by-virus-attack-.html))
 * A Library in Oman ([@99arwan1](https://twitter.com/99arwan1/status/863325279653171200))
-
+* China Yanshui County Public Security Bureau (https://twitter.com/95cnsec/status/863292545278685184)
+* Renault (France) (http://www.lepoint.fr/societe/renault-touche-par-la-vague-de-cyberattaques-internationales-13-05-2017-2127044_23.php) (http://www.lefigaro.fr/flash-eco/2017/05/13/97002-20170513FILWWW00031-renault-touche-par-la-vague-de-cyberattaques-internationales.php)
+* Schools/Education (France) https://twitter.com/Damien_Bancal/status/863305670568837120 
+* University of Milano-Bicocca ([italy](http://milano.repubblica.it/cronaca/2017/05/12/news/milano_virus_ransomware_universita_bicocca-165302056/?ref=drnweb.repubblica.scroll-3)) 
+ 
 # Malware samples
 
 * hxxps://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100
