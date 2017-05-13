@@ -13,6 +13,7 @@ https://blog.malwarebytes.com/threat-analysis/2017/05/the-worm-that-spreads-wana
 
 * NHS (uk) turning away patients, unable to perform x-rays.
 * Telefonica (spain)
+* power firm Iberdrola and Gas Natural ([spain](http://www.bbc.co.uk/news/technology-39901382))
 * FedEx (us)
 * University of Waterloo ([us](https://twitter.com/amtinits))
 * Russia interior ministry & Megafon (russia)
