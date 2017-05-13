@@ -47,6 +47,11 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 
 Binary blob in PE crypted with pass 'WNcry@2ol7', credits to ens!
 
+* parents https://pastebin.com/quvVH5hS (all known variants of the Wcry launcher containing eternalblue)
+* children https://pastebin.com/A2pxw49F (all variants of Wcry, the actual ransomware, being currently observed in the wild)
+
+essentially the full known catalogue of samples. credit to errantbot and @codexgigassys
+
 # Informative Tweets
 
 * Sample released by ens: https://twitter.com/the_ens/status/863055007842750465
