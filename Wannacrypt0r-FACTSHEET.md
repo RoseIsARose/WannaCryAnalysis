@@ -38,7 +38,7 @@ Killswitch source: https://blog.malwarebytes.com/threat-analysis/2017/05/the-wor
 * A mall in singapore https://twitter.com/nkl0x55/status/863340271391580161
 * ATMs in china https://twitter.com/95cnsec/status/863382193615159296
 * norwegian soccer team ticket sales https://www.nrk.no/telemark/eliteserieklubber-rammet-av-internasjonalt-dataangrep-1.13515245
-* STC telecom ([saudia arabia](https://twitter.com/iPhone_Supp/status/863735059819442177))
+* STC telecom ([saudia arabia](https://twitter.com/iPhone_Supp/status/863735059819442177), [more](https://twitter.com/mhooh300/status/863734116142985216))
 
 # Malware samples
 
