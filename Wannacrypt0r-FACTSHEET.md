@@ -6,6 +6,8 @@
 * **Backdooring**: The worm loops through every RDP session on a system to run the ransomware as that user. It also installs the DOUBLEPULSAR backdoor. It corrupts shadow volumes to make recovery harder. (source: malwarebytes)
 * **Kill switch**: If the website `www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com` is up the virus exits instead of infecting the host. (source: malwarebytes). This domain has been sinkholed, stopping the spread of the worm. Will not work if proxied ([source](https://blog.didierstevens.com/2017/05/13/quickpost-wcry-killswitch-check-is-not-proxy-aware/)).
 
+*update*: A minor variant of the virus has been found, it looks to have had the killswitch hexedited out. Not done by recompile so probably not done by the original malware author. On the other hand that is the only change: the encryption keys are the same, the bitcoin addresses are the same. On the other hand it is corrupt so the ransomware aspect of it doesn't work - it only propagates.
+
 SECURITY BULLETIN AND UPDATES HERE: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 
 Microsoft first patch for XP since 2014: https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/
