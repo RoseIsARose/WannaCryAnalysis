@@ -153,15 +153,17 @@ credit: nulldot https://pastebin.com/0LrH05y2
 # Encrypted file format
 
 ```
-<64-bit SIGNATURE>        - WANACRY!
-<length of encrypted key> - 256 for 2048-bit keys, cannot exceed 4096-bits
-<encrypted key>           - 256 bytes if keys are 2048-bits
-<32-bit value>            - unknown
-<64 bit file size>        - return by GetFileSizeEx
-<encrypted data>          - with custom AES-128 in CBC mode
+typedef struct _wc_file_t {
+    char     sig[WC_SIG_LEN]     // 64 bit signature WANACRY!
+    uint32_t keylen;             // length of encrypted key
+    uint8_t  key[WC_ENCKEY_LEN]; // AES key encrypted with RSA
+    uint32_t unknown;            // usually 3 or 4, unknown
+    uint64_t datalen;            // length of file before encryption, obtained from GetFileSizeEx
+    uint8_t *data;               // Ciphertext Encrypted data using AES-128 in CBC mode
+} wc_file_t;
 ```
 
-credit for reversing this file format info: cyg_x11
+credit for reversing this file format info: cyg_x11.
 
 # Vulnerability disclosure
 
