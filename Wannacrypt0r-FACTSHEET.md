@@ -83,7 +83,7 @@ essentially the full known catalogue of samples. credit to errantbot and @codexg
 * Each infection generates a new RSA-2048 keypair.
 * The public key is exported as blob and saved to 00000000.pky
 * The private key is encrypted with the ransomware public key and saved as 00000000.eky
-* Each file is encrypted using AES-128-ECB, with a unique AES key per file.
+* Each file is encrypted using AES-128-CBC, with a unique AES key per file.
 * Each AES key is generated CryptGenRandom.
 * The AES key is encrypted using the infection specific RSA keypair.
 
